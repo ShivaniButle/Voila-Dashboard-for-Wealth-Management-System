@@ -18,3 +18,8 @@ Problem Statement : Create a dashboard that provides following insights for user
   Gains from mutual funds redeemed within one year are taxed at 15%. If the same is redeemed after one year, the gains over Rs.1 lakh are taxed at 10%.
   Gains from stocks sold within one year are taxed at 15%. If the same are sold after one year, the gains over Rs.1 lakh are taxed at 10%.
   Gains from FD taxed at 10%.
+
+
+Working - Download Jupter File, all xlsx files and the image.
+Install required python libraries - pandas, matplotlib, matplotlib_venn
+Importanat Libray - voila
