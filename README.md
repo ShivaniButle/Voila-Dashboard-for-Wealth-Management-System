@@ -21,5 +21,10 @@ Problem Statement : Create a dashboard that provides following insights for user
 
 
 Working - Download Jupter File, all xlsx files and the image.
-Install required python libraries - pandas, matplotlib, matplotlib_venn
-Importanat Libray - voila
+
+Dependencies
+   voila - https://pypi.org/project/voila/
+   pandas - https://pypi.org/search/?q=pandas
+   matplotlib - https://pypi.org/search/?q=matplotlib&o=
+   matplotlib_venn - https://pypi.org/project/matplotlib-venn/
+
