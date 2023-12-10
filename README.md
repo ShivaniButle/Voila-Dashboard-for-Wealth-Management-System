@@ -24,7 +24,10 @@ Working - Download Jupter File, all xlsx files and the image.
 
 Dependencies
    voila - https://pypi.org/project/voila/
+
    pandas - https://pypi.org/search/?q=pandas
+
    matplotlib - https://pypi.org/search/?q=matplotlib&o=
+   
    matplotlib_venn - https://pypi.org/project/matplotlib-venn/
 
